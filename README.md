@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theo1022
+- 👋 Hi, I’m @theo1022(they/them)
 - 👀 I’m interested in gaming, fandom, and problem solving
 - 🌱 I’m currently learning .net development(student)
 
