@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @theo1022(they/them)
 - 👀 I’m interested in programing, problem solving, gaming, and have an unnecessary large amount of knowledge about Pokemon
-- 🌱 I’m currently learning .net development(student)
 
 <!---
 theo1022/theo1022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Welcome to my profile! I'm @theo1022</h1>
-<p>My name is Theo Olsson and I'm a student at <a href="https://ecutbildning.se/">EC Utbildning</a> in Gothenburg - Sweden where I'm studying to become a .net developer</p>
+<p>My name is Theo Olsson, a graduate from <a href="https://ecutbildning.se/">EC Utbildning</a> in Gothenburg - Sweden where I studied to become a .NET developer</p>
 <img id="EC" src="https://ecutbildning.se/wp-content/uploads/2020/11/ec-logo-mono2.svg" alt="ec logo" style="width: 200px;">
 <p>In fall of 2020 I took a course on the basics of C# after a suggestion from a friend and I quickly discovered that programing is something I greatly enjoy</p>
 <p>I then started researching available schools in my area where I might enroll as a student.</p>
